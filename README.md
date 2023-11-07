@@ -24,3 +24,4 @@ Collection of resources which I found interesting while learning ML
 21. Analyzing log files framework :  https://www.elastic.co/logstash
 22. Know more about Elastic Search, seems interesting : https://www.knowi.com/blog/what-is-elastic-search/
 23. How Ber tokenizer works : https://www.analyticsvidhya.com/blog/2021/09/an-explanatory-guide-to-bert-tokenizer/
+24. "Concept Drift VS Data Drift in Machine Learning" : https://nulltoinfinity.hashnode.dev/concept-drift-and-data-drift-in-machine-learning
