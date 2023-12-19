@@ -29,3 +29,4 @@ Collection of resources which I found interesting while learning ML
 26. A feature column should not be included in prediction if it is not significant enough. Assume a binary classification model, If the data distribution of a feature for class 0 is similar to the data distribution for class 1 then the feature column might not bear much significance.
 27. Data collection, processing guideline : [https://pair.withgoogle.com/chapter/data-collection/](url)
 28. To inspect model after training : [https://pair-code.github.io/what-if-tool/](url)
+29. To understand NLP models after training : [https://pair-code.github.io/lit/](url)
