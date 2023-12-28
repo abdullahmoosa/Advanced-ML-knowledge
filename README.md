@@ -30,3 +30,4 @@ Collection of resources which I found interesting while learning ML
 27. Data collection, processing guideline : [https://pair.withgoogle.com/chapter/data-collection/](url)
 28. To inspect model after training : [https://pair-code.github.io/what-if-tool/](url)
 29. To understand NLP models after training : [https://pair-code.github.io/lit/](url)
+30. Evolutionary Algorithms : [https://medium.com/mlearning-ai/why-you-should-implement-evolutionary-algorithms-in-your-machine-learning-projects-ee386edb4ecc](url)
