@@ -33,3 +33,4 @@ Collection of resources which I found interesting while learning ML
 30. Evolutionary Algorithms : [https://medium.com/mlearning-ai/why-you-should-implement-evolutionary-algorithms-in-your-machine-learning-projects-ee386edb4ecc](url)
 31. Understanding SHAP for explainable AI : [https://meichenlu.com/2018-11-10-SHAP-explainable-machine-learning/](url)
 32. Python best practices : [https://dagster.io/blog/python-project-best-practices](url)
+33. LSTM return sequences and Return States : [https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-in-keras/](url)
